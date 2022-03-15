@@ -24,3 +24,8 @@ Here's a walkthrough of implemented user stories:
 
 https://user-images.githubusercontent.com/78555907/158401176-7fdfcb06-316b-42a6-b809-49883892fbe8.mp4
 
+
+https://user-images.githubusercontent.com/78555907/158477357-35488ead-65d0-4968-a76a-efb88a996afd.mp4
+
+
+
